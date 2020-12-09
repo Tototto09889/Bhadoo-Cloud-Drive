@@ -1,7 +1,7 @@
 {
     "name": "SaveToGoogleDrive - Wibudrive",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
+    "repository": "https://github.com/Tototto09889/Bhadoo-Cloud-Drive",
     "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
     "keywords": ["google","drive","bhadoo","bhadoo cloud"],
     "env": {
